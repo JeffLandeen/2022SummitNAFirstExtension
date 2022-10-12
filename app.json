@@ -1,0 +1,32 @@
+{
+  "id": "4a96dc83-dc5b-4f2e-a863-a20542023ea1",
+  "name": "SummitNA2022Test",
+  "publisher": "RSM US LLP",
+  "version": "1.0.0.0",
+  "brief": "Adding Shipping Delivery time to Sales Order",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
